@@ -2,8 +2,12 @@
   "merkleRoot": "0x7417836529458a18e4c481090c3ac848abd071c9cb78dcb6fc5871cce69589ff",
   "claims": {
     "0x5F88BA15296c3FD29948a631b0Df276d84195539": {
-      "amounts": ["0x0de0b6b3a7640000"],
-      "tokens": ["0x7A684f6d9a34175d642EEdB31FA545604d8d3aCF"],
+      "amounts": [
+        "0x0de0b6b3a7640000"
+      ],
+      "tokens": [
+        "0x7A684f6d9a34175d642EEdB31FA545604d8d3aCF"
+      ],
       "proofs": [
         "0xb3f6f6fa03fb2d9debcd592a62ac3163048258e698a6323fc451ecb7bbc5b895",
         "0xa2e036d3d36a0667df815c7fcf109592d6d138de15933cabf1e8bfe74d7aeea9",
