@@ -1,0 +1,17 @@
+[
+    {
+      "recipientWalletAddress": "0x601Fc8BE66979183ad2Bc77ed58610F9a580C9b5",
+      "network": "ETH",
+      "products": [
+        {
+          "owner": "0x3c01d8e4da685a38cbdc0c8f9cbedbd3062cba23",
+          "assetTokenAddress": "0x23684569c0636C9aEa246551879d457D0a0E6F58",
+          "qty": "4.395866283",
+          "mtpTokenId": "100003",
+          "tokenDispenseTxHashRecord": "",
+          "name": "OLD-9336 Patton"
+        }
+      ],
+      "type": "OLD token burned",
+      "hash_burned": "0xa59803963168a5806fcb7ab635655a18d701c6802b228e0aae19c82165e4f961"
+    }]
